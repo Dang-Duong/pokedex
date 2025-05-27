@@ -9,6 +9,26 @@
   --font-roboto: var(--font-roboto);
   --font-pokemon-solid: var(--font-pokemon-solid);
   --font-pokemon-hollow: var(--font-pokemon-hollow);
+
+  /* Pokemon Type Colors */
+  --color-pokemon-normal: #a8a878;
+  --color-pokemon-fire: #f08030;
+  --color-pokemon-water: #6890f0;
+  --color-pokemon-electric: #f8d030;
+  --color-pokemon-grass: #78c850;
+  --color-pokemon-ice: #98d8d8;
+  --color-pokemon-fighting: #c03028;
+  --color-pokemon-poison: #a040a0;
+  --color-pokemon-ground: #e0c068;
+  --color-pokemon-flying: #a890f0;
+  --color-pokemon-psychic: #f85888;
+  --color-pokemon-bug: #a8b820;
+  --color-pokemon-rock: #b8a038;
+  --color-pokemon-ghost: #705898;
+  --color-pokemon-dragon: #7038f8;
+  --color-pokemon-dark: #705848;
+  --color-pokemon-steel: #b8b8d0;
+  --color-pokemon-fairy: #ee99ac;
 }
 
 @media (prefers-color-scheme: dark) {
